@@ -2,11 +2,26 @@
   "name": "hieunghia-shopping-cart-lib",
   "version": "1.0.2",
   "type": "module",
-  "description": "",
+  "description": "A reusable, customizable shopping cart library for React applications with modern UI components",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NguyenHieuNghia149/shopping-cart-library.git"
+  },
+  "homepage": "https://github.com/NguyenHieuNghia149/shopping-cart-library#readme",
+  "keywords": [
+    "react",
+    "shopping-cart",
+    "cart",
+    "ecommerce",
+    "ui-components",
+    "react-components",
+    "tailwindcss"
   ],
   "scripts": {
     "build": "rollup -c",
