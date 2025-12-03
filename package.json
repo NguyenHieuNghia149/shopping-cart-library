@@ -1,6 +1,6 @@
 {
   "name": "hieunghia-shopping-cart-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "",
   "main": "dist/index.js",
