@@ -1,6 +1,6 @@
 {
   "name": "hieunghia-shopping-cart-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "description": "A reusable, customizable shopping cart library for React applications with modern UI components",
   "main": "dist/index.js",
